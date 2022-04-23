@@ -6,5 +6,6 @@ The school board has notified Maria and her supervisor that the original student
 
 ## Results
 - After removing the test schores for the ninth grade students at Thomas High, the Average Math Score, % Passing Math, % Passing Reading, and % Overall Passing all went down by less than half a percent.
-![Original District Summary](/images/original_district_summary.png)
-<b>Original District Summary</b>
+|![Original District Summary](/images/original_district_summary.png)|
+|:--:|
+|<b>Original District Summary</b>|
